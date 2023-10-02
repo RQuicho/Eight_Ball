@@ -1,0 +1,13 @@
+.firstQ, .otherQs {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 10% auto;
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.firstQ-text, .otherQs-text {
+  margin: auto;
+}
